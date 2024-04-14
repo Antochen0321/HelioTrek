@@ -3,7 +3,13 @@ Présentation Projet Héliotrek de 2ème année d'Anton CHENDEA et Mayane GUILLO
 
 Structure du Git:
 
-Simulation: codes pythons permettant d'observer l'influence de la longueur d'onde et de l'angle de diffraction sur l'intensité lumineuse dans un réseau holographique. Projet: Explication du Projet, consigne de manipulation du spectrohéliographe et de son assemblage.
+Simulation: codes pythons permettant d'observer l'influence de la longueur d'onde et de l'angle de diffraction sur l'intensité lumineuse dans un réseau holographique. 
+
+Projet: Explication du Projet, consigne de manipulation du spectrohéliographe et de son assemblage.
+
+
+Logiciels utiles: Liste des logiciel à installer pour utiliser le spectrohéliographe
+
 
 Contact: anton.chendea@ensea.fr 
 
