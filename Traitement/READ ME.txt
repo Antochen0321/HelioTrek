@@ -1,0 +1,19 @@
+Une fois les fichiers .SER générés, on peut reconstituer l'image du Soleil, si la capture est exploitable bien sûr.
+
+Voici plusieurs logiciels utiles:
+
+-INTI: logiciel primordial, codé en Python. Il permet de réassembler chaque frame de la capture pour reconstituer une image du Soleil en H-alpha, il faut simplement ouvrir le fichier .SER avec et lancer l'execution.
+Pour télécharger INTI : http://valerie.desnoux.free.fr/inti/
+
+-AviStack: Permet de faire la même chose qu'INTI mais fonctionne toujours, même quand les données initiales sont insuffisante pour obtenir une image satisfaisante, permet aussi de visualiser la capture brute en .SER. Il faut ouvrir le fichier et lancer l'execution qui peut durer plusieurs minutes.
+Pour télécharger AviStack: http://www.avistack.de
+
+-i-Spec: Permet de réaliser plusieurs réglages sur l'image obtenue. On peut notamment remettre le Soleil droit car il peut être incliné en fonction de l'orientation de la raie H-alpha (si vous avez suivi le tuto SharpCap, le Soleil sera incliné de 90° car la raie H-alpha est en réalité verticale). Permet aussi de recoloriser l'image, d'améliorer la qualité et supprimer certaines erreurs/abérations. Le fichier est joint dans ce dossier. 
+
+Pour aller plus loin et analyser les images et les données du Soleil, il existe une libraire Python.
+
+Pour l'installer: pip install sunpy.
+
+La libraire comprends de nombreux modules permettant d'analyser des données solaires, notamment de faire de la détection de tâches, il y a, dans ce dossier un script permettant de détecter les tâches solaires sur un exemple.
+
+Lien vers le site de SunPy: https://docs.sunpy.org/en/stable/
