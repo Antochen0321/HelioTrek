@@ -1,0 +1,6 @@
+Ces codes pythons permettent de comprendre le fonctionnement d'un réseau et d'observer les effets de la diffraction sur l'intensité lumineuse.
+
+On peut faire des observations pour des facettes d'un réseau Holographique, le réseau entier ou encore des fentes d'un réseau à fentes.
+
+Codes écrits et compilés sur PyCharms: https://www.jetbrains.com/fr-fr/pycharm/
+Logiciel disponible avec l'adresse mail de l'ENSEA.
